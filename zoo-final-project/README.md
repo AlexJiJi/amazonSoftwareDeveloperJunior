@@ -20,20 +20,20 @@ The application simulates a zoo system where different animals can be created an
 - Console-based interaction
 
 ## 📂 Project Structure
-src/
-├── Animal.java
-├── Tiger.java
-├── Penguin.java
-├── Dolphin.java
-├── Main.java
-├── Eat.java
-├── Walk.java
-├── Swim.java
-
-animals/
-├── tiger.txt
-├── penguin.txt
-├── dolphin.txt
+src/ <br>
+├── Animal.java<br>
+├── Tiger.java<br>
+├── Penguin.java<br>
+├── Dolphin.java<br>
+├── Main.java<br>
+├── Eat.java<br>
+├── Walk.java<br>
+├── Swim.java<br>
+<br>
+animals/<br>
+├── tiger.txt<br>
+├── penguin.txt<br>
+├── dolphin.txt<br>
 
 
 ## ▶️ How to Run
