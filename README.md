@@ -32,6 +32,22 @@ This section contains projects designed to understand separation of concerns in 
   - `resources/static/css/`: CSS stylesheets.
 * **Technologies**: Java, Spring Boot, Thymeleaf, HTML5, CSS3, Maven.
 
+#### C. Activity Menu Management
+* **Description**: Web application for managing a dynamic menu system featuring data persistence and code validation.
+* **Key Structure**:
+  - `MenuItem.java`: Data model representing menu items.
+  - `MenuController.java`: Spring MVC controller (`@Controller`) mapping menu routes and handling view rendering.
+  - `application.properties`: Configuration file establishing MySQL database integration and Checkstyle validation rules.
+* **Technologies**: Java, Spring Boot MVC, MySQL, Checkstyle, Maven.
+
+#### D. Activity Security and Authentication
+* **Description**: Secure web application demonstrating custom authentication, access control, and integration testing.
+* **Key Structure**:
+  - `SecurityConfig.java`: Configuration class establishing role-based security filter chains and HTTP Basic authentication.
+  - `LoginController.java`: Spring MVC controller handling custom form logins.
+  - `SecurityTests.java`: Testing suite executing unit and integration tests using JUnit and TestRestTemplate.
+* **Technologies**: Java, Spring Boot Security, JUnit, TestRestTemplate, Maven.
+
 ---
 
 ### 2. Zoo Final Project (`/zoo-final-project`)
