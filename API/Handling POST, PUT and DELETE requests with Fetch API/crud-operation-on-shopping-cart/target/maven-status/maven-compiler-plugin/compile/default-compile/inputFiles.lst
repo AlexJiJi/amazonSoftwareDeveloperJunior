@@ -1,0 +1,6 @@
+/home/coder/coursera/IdeaProjects/crud-operation-on-shopping-cart/src/main/java/com/example/crud/shopping/cart/Application.java
+/home/coder/coursera/IdeaProjects/crud-operation-on-shopping-cart/src/main/java/com/example/crud/shopping/cart/product/Product.java
+/home/coder/coursera/IdeaProjects/crud-operation-on-shopping-cart/src/main/java/com/example/crud/shopping/cart/product/ProductController.java
+/home/coder/coursera/IdeaProjects/crud-operation-on-shopping-cart/src/main/java/com/example/crud/shopping/cart/product/ProductRepository.java
+/home/coder/coursera/IdeaProjects/crud-operation-on-shopping-cart/src/main/java/com/example/crud/shopping/cart/product/ProductService.java
+/home/coder/coursera/IdeaProjects/crud-operation-on-shopping-cart/src/main/java/com/example/crud/shopping/cart/product/Rating.java
